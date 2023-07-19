@@ -1,10 +1,9 @@
-.header-logo{   
+.header-logo{  
+    padding: 20px 20px; 
     float: left;
     font-size: 36px;
 }
 header{
-    
-    padding: 20px 20px;
     background-color: #efabc0;
     font-family: 'Train One';
 }
