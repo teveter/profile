@@ -1,3 +1,28 @@
-main{
-    color: rgb(15, 27, 198);
+.header-logo{
+    float: left;
+    font-size: 36px;
+    padding: 20px 20px;
+    font-family: 'Train One', cursive;
+}
+header{
+    background-color: #efabc0;
+    font-family: 'Train One';
+}
+.profile img{
+    height: 250px;
+    width: 250px;
+    padding-top: 16px;
+    padding-bottom: 24px;
+}
+.skill{
+    background-color: #f1cb71;
+    padding-top: 16px;
+    padding-bottom: 24px;
+}
+.portfolio{
+    padding-top: 16px;
+    padding-bottom: 24px;
+}
+footer{
+    background-color: #c38c0b;
 }
