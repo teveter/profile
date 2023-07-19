@@ -8,7 +8,7 @@ header{
     background-color: #efabc0;
     font-family: 'Train One';
 }
-main{
+.profile{
     margin: auto;
 }
 img{
@@ -18,11 +18,13 @@ img{
     padding-bottom: 24px;
 }
 .skills{
+    margin: auto;
     background-color: #f1cb71;
     padding-top: 16px;
     padding-bottom: 24px;
 }
 .portfolios{
+    margin: auto;
     padding-top: 16px;
     padding-bottom: 24px;
 }
