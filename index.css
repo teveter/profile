@@ -1,20 +1,22 @@
-.header-logo{
-    float: left;
+.header-logo{   
     font-size: 36px;
-    padding: 20px 20px;
-    font-family: 'Train One', cursive;
 }
 header{
+    float: left;
+    padding: 20px 20px;
     background-color: #efabc0;
     font-family: 'Train One';
 }
-.profile img{
+main{
+    margin: 0 auto;
+}
+img{
     height: 250px;
     width: 250px;
     padding-top: 16px;
     padding-bottom: 24px;
 }
-.skill{
+.skills{
     background-color: #f1cb71;
     padding-top: 16px;
     padding-bottom: 24px;
