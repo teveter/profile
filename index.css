@@ -1,14 +1,15 @@
 .header-logo{   
+    float: left;
     font-size: 36px;
 }
 header{
-    float: left;
+    
     padding: 20px 20px;
     background-color: #efabc0;
     font-family: 'Train One';
 }
 main{
-    margin: 0 auto;
+    margin: auto;
 }
 img{
     height: 250px;
